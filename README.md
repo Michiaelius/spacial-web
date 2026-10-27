@@ -11,6 +11,6 @@ Dies ist nur der exportierte Web-Build (HTML/WASM/PCK).
 Der Quellcode und die Design-Dokumente liegen in einem privaten Repository.
 
 - Engine: Godot 4.7.2, Compatibility-Renderer, **ohne Threads** (kein SharedArrayBuffer nötig)
-- Build aus Commit `c6aed00` des privaten Repos
+- Build aus Commit `9435f1e` des privaten Repos
 
 Steuerung: wie in der Desktop-Version. Empfohlen: aktueller Chrome/Firefox/Edge, Desktop.
